@@ -1,13 +1,4 @@
-# Udemy Ansible Assignment
-
-This is a solution for the Ansible Assignment on Udemy https://www.udemy.com/learn-ansible-advanced
-
-This assignment tests the students knowledge on deploying a distributed web application on cloud using fully automated Ansible playbooks. The solution is shared to the instructor and student community using github repository and feedback will be given.
-
-**A full video demonstration of the solution is under development. Will update once ready.**
-
-## Solution
-Below is my solution to the problem. 
+# Ansible Playbook Web Deployment
 
 ### Infrastructure 
  
