@@ -38,8 +38,8 @@
       mail:
         host: smtp.gmail.com
         port: 465
-        username: mmumshad@gmail.com
+        username: drsezginerdem@gmail.com
         password: "{{ g_password }}"
-        to: Mumshad Mannambeth <mmumshad@gmail.com>
+        to: Sezgin Erdem <drsezginerdem@gmail.com>
         subject: Ansible-report
         body: 'Go to http://{{ lb_result.external_ip }} to access your web application.'

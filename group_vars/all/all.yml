@@ -4,7 +4,7 @@
 
 service_account_email: ansible@udemy-ansible-assignment.iam.gserviceaccount.com
 credentials_file: udemy-ansible-assignment-fb21ec2e17c4.json
-project_id: udemy-ansible-assignment
+project_id: ansible-playbook-web-deployment
 
 machine_type: n1-standard-1
 image: debian-7

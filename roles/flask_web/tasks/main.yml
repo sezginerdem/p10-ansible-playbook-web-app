@@ -10,7 +10,7 @@
     - name: Copy source code
       # copy: src=app.py dest=/opt/app.py
       git:
-          repo: 'https://github.com/mmumshad/simple-webapp.git'
+          repo: 'https://github.com/sezginerdem/e-commerce-web-app.git'
           dest: /opt/simple-webapp
 
     - name: Print command
